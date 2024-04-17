@@ -7,6 +7,11 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## :unlock: Available Scripts
 
+Install all the dependencies
+
+```bash
+npm install
+```
 In the project directory, you can run:
 
 ```bash
