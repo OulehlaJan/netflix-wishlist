@@ -1,9 +1,3 @@
-![NPM version][npm-image]
-![NPM download][download-image]
-
-[npm-image]: https://img.shields.io/npm/v/netflix-wishlist.svg?style=flat-square
-[download-image]: https://img.shields.io/npm/dm/netflix-wishlist.svg?style=flat-square
-
 <h1 align="center">Jan Oulehla</h1>
 <p align="center">Creative Front-End Web Developer</p>
 
