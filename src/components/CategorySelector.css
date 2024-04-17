@@ -1,0 +1,24 @@
+.all-category-buttons {
+    display: flex;
+    justify-content: center;
+    flex-direction: row;
+    flex-wrap: wrap;
+}
+
+.one-category {
+    font-family: 'Roboto';
+    color: #f5f5f5;
+    background-color: #e90418;
+    font-size: 17px;
+    cursor: pointer;
+    padding: 5px 10px;
+    margin: 0px 10px 15px;
+    border: none;
+    border-radius: 3px;
+    box-shadow: 5px 5px 10px black;
+    transition: all 0.2s linear;
+}
+
+.one-category:hover {
+    transform: scale(1.05);
+}
