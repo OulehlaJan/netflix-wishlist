@@ -58,11 +58,11 @@ You don't have to ever use `eject`. The curated feature set is suitable for smal
 
 A quick look at the folder structure of this project.
 
-.
-├── public
-└── src
-    ├───components
-    └───images
+ 
+    ├── public
+    └── src
+        ├───components
+        └───images
 
 ## :v: Learn More
 
