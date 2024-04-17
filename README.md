@@ -1,7 +1,7 @@
 <h1 align="center">Jan Oulehla</h1>
 <p align="center">Creative Front-End Web Developer</p>
 
-# :rocket: Getting Started with Create React App
+
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
