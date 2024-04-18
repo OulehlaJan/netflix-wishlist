@@ -58,13 +58,50 @@ You don't have to ever use `eject`. The curated feature set is suitable for smal
 
 ## :open_file_folder: What's inside?
 
-A quick look at the folder structure of this project.
+A quick look at the structure of this project.
 
- 
+    .
     ├── public
-    └── src
-        ├───components
-        └───images
+    │   ├───index.html
+    │   ├───manifest.json
+    │   ├───noice.mp4
+    │   └───robots.txt
+    ├── src
+    │   ├───components
+    │   │    ├───CategorySelector.css
+    │   │    ├───CategorySelector.js
+    │   │    ├───DeleteAllButton.css
+    │   │    ├───DeleteAllButton.js
+    │   │    ├───DeleteMovieButton.css
+    │   │    ├───DeleteMovieButton.js
+    │   │    ├───Movie.css
+    │   │    ├───Movie.js
+    │   │    ├───ReloadMoviesButton.css
+    │   │    ├───ReloadMoviesButton.js
+    │   │    ├───VideoPlayer.css
+    │   │    ├───VideoPlayer.js
+    │   │    ├───WishlistText.js
+    │   │    └───WishlistText.scss
+    │   ├───images
+    │   │    ├───movie1.png
+    │   │    ├───movie2.png
+    │   │    ├───movie3.png
+    │   │    ├───movie4.png
+    │   │    ├───movie5.png
+    │   │    ├───movie6.png
+    │   │    ├───movie7.png
+    │   │    ├───movie8.png
+    │   │    ├───movie9.png
+    │   │    └───movie10.png
+    │   ├───App.js
+    │   ├───categories.js
+    │   ├───data.js
+    │   ├───index.css
+    │   └───index.js
+    ├── .gitignore
+    ├── package-lock.json
+    ├── package.json
+    └── README.md
 
 ## :v: Learn More
 
