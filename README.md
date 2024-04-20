@@ -3,7 +3,7 @@
 
 # :computer: Demo
 [![Netlify Status](https://api.netlify.com/api/v1/badges/82c447c3-93ed-4007-ba21-9405e7f7c840/deploy-status?branch=master)](https://app.netlify.com/sites/movie-wishlist-oulehlajan/deploys) <br />
-[Netflix Wishlist Movie App](https://movie-wishlist-oulehlajan.netlify.app/)
+:point_right:[Netflix Wishlist Movie App](https://movie-wishlist-oulehlajan.netlify.app/)
 
 # :rocket: Getting Started with Create React App
 
