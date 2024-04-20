@@ -1,3 +1,5 @@
+![GitHub License](https://img.shields.io/github/license/oulehlajan/netflix-wishlist?style=for-the-badge)
+
 <h1 align="center">Jan Oulehla</h1>
 <p align="center">Creative Front-End Web Developer</p>
 
