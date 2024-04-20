@@ -70,6 +70,7 @@ A quick look at the structure of this project.
 
     .
     ├── public
+    │   ├───favicon.ico
     │   ├───index.html
     │   ├───manifest.json
     │   ├───noice.mp4
@@ -106,7 +107,6 @@ A quick look at the structure of this project.
     │   ├───data.js
     │   ├───index.css
     │   └───index.js
-    ├── .gitignore
     ├── package-lock.json
     ├── package.json
     └── README.md
