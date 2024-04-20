@@ -9,7 +9,7 @@
 </p>
 
 # :computer: Demo
-[![Netlify Status](https://api.netlify.com/api/v1/badges/82c447c3-93ed-4007-ba21-9405e7f7c840/deploy-status?branch=master)](https://app.netlify.com/sites/movie-wishlist-oulehlajan/deploys) <br />
+[![Netlify Status](https://api.netlify.com/api/v1/badges/fe9c0555-61b2-40e2-ad7c-0e1225caedb9/deploy-status)](https://app.netlify.com/sites/movie-wishlist-oulehlajan/deploys) <br />
 [Netflix Wishlist Movie App](https://movie-wishlist-oulehlajan.netlify.app/):point_left:
 
 # :rocket: Getting Started with Create React App
