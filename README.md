@@ -12,6 +12,9 @@
 [![Netlify Status](https://api.netlify.com/api/v1/badges/fe9c0555-61b2-40e2-ad7c-0e1225caedb9/deploy-status)](https://app.netlify.com/sites/movie-wishlist-oulehlajan/deploys) <br />
 [Netflix Wishlist Movie App](https://movie-wishlist-oulehlajan.netlify.app/):point_left:
 
+![MovieWishlist1](https://github.com/OulehlaJan/netflix-wishlist/assets/128754127/6982a7f3-cf4b-483d-9f39-269b2d0bfb8a)
+
+
 # :rocket: Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
