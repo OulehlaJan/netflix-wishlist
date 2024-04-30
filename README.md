@@ -8,7 +8,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=noto&weight=600&size=22&duration=4000&pause=4350&color=FFA657&center=true&vCenter=true&random=false&width=910&lines=a+self-taught+passionate+Web+developer+from+Czechia" />
 </p>
 
-# :computer: Demo
+# :computer: Dem
 [![Netlify Status](https://api.netlify.com/api/v1/badges/fe9c0555-61b2-40e2-ad7c-0e1225caedb9/deploy-status)](https://app.netlify.com/sites/movie-wishlist-oulehlajan/deploys) <br />
 
 <!-- Demo Link -->
