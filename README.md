@@ -12,9 +12,9 @@
 [![Netlify Status](https://api.netlify.com/api/v1/badges/fe9c0555-61b2-40e2-ad7c-0e1225caedb9/deploy-status)](https://app.netlify.com/sites/movie-wishlist-oulehlajan/deploys) <br />
 
 <!-- Demo Link -->
-<p align="center">
+<h3 align="center">
   <a href="https://movie-wishlist-oulehlajan.netlify.app/">Netflix Wishlist</a>:point_left: <br />
-</p>
+</h3>
 
 <!-- GIF -->
 <p align="center">
